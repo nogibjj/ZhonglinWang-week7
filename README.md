@@ -1,6 +1,9 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Zhonglin Wang - Rust mini project-week7
+This project is generating a random fruit
 
-## References
+## Install Rust on Terminal
+1. Type: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+2. To configure your current shell, run: `source "$HOME/.cargo/env"`
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+## Run `cargo run`, then you'll see the following, and after enter four numbers, you'll see
+<img width="577" alt="image" src="https://user-images.githubusercontent.com/112585430/223516234-a77604e4-eb54-47de-80a8-6ceeda88cc17.png">
